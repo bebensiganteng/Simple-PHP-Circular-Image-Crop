@@ -23,4 +23,4 @@ Tested on
 - Opera/9.80 (Macintosh; Intel Mac OS X 10.8.2) Presto/2.12.388 Version/12.14
 - FF 18.0.2
 - iPhone/iPad/Android (I forgot which version :p  ..will update later)
-- 
+
